@@ -6,16 +6,10 @@
 Запросы через Postman — добавление, удаление, обновление, поиск по фильтрам.
 
 Используемые технологии
-Java 17+
-
-Spring Boot (Spring Web, Spring Data JPA)
-
+Java 24
+Spring Boot 
 PostgreSQL
-
-Maven
-
 Postman — для ручного тестирования API
-
 IntelliJ IDEA — среда разработки
 
 
